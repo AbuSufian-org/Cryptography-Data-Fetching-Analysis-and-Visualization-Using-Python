@@ -26,4 +26,8 @@ This project is perfect for **data analysts, Python developers, and crypto enthu
 
 💡 **Contributions & Suggestions Welcome!** Feel free to explore, fork, and contribute to enhance this project! 🚀  
 
+**Work Notebook Link:** https://github.com/AbuSufian-org/Cryptography-Data-Fetching-Analysis-and-Visualization-Using-Python/blob/main/Cryptography.ipynb
+
+**Project video link:** https://www.linkedin.com/posts/abusufianorg_datascience-python-dataanalysis-activity-7283337498217390080-sLjC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOptXMBuir9y3EuRSHtfgwQcv3NlLTRDus
+
 🔗 **Stay tuned for Part-2!**
